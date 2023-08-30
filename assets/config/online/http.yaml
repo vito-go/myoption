@@ -1,0 +1,23 @@
+# app version
+appName: MyOption
+version: 0.0.1
+clientCode: vitogo
+clientName: vitogo
+homePage: http://vitogo.tpddns.cn:9130
+#serverX25519PubKey: IY6ICGL/kjcySPrzlq5RMIy4ItycfPhoBZ+9DIihrlo=
+
+apiHost:
+  #   order
+  submitOrder: http://vitogo.tpddns.cn:9130/myoption/api/v1/user/order/submit
+  orderList: http://vitogo.tpddns.cn:9130/myoption/api/v1/user/order/orderList
+  #  wallet
+  walletDetails: http://vitogo.tpddns.cn:9130/myoption/api/v1/user/wallet/walletDetails
+  myBalance: http://vitogo.tpddns.cn:9130/myoption/api/v1/user/wallet/myBalance
+  # user
+  appRegister: http://vitogo.tpddns.cn:9130/myoption/api/v1/user/register
+  logIn: http://vitogo.tpddns.cn:9130/myoption/api/v1/user/logIn
+  priceLast: http://vitogo.tpddns.cn:9130/myoption/sse/v1/price/last
+  productList: http://vitogo.tpddns.cn:9130/myoption/ws/v1/price/productList
+  generalConfig: http://vitogo.tpddns.cn:9130/myoption/web/v1/user/generalConfig
+  lineChart: http://vitogo.tpddns.cn:9130/myoption/web/v1/user/lineChart
+
