@@ -21,4 +21,5 @@ samples, guidance on mobile development, and a full API reference.
 <img  src="./images/transaction_detail.png" style="width: 32%">
 <img  src="./images/wallet_detail.png" style="width: 32%">
 <img  src="./images/title_order.png" style="width: 32%">
+<img  src="./images/chart.png" style="width: 32%">
 <img  src="./images/about.png" style="width: 32%">
